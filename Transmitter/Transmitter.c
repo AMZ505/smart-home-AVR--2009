@@ -8,7 +8,7 @@ e-mail:office@hpinfotech.com
 Project : 
 Version : 
 Date    : 2/6/2009
-Author  : ALI FARID & AMIN ALAIE                                                   
+Author  : ALI M. FARID                                              
 Company :                        
 Comments: Shematic 1
 
